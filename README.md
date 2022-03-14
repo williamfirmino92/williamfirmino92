@@ -5,7 +5,7 @@
 
 - 🔭 Estudando desenvolvimento web full stack - Resília
 - 👓 Graduado em gestão da tecnologia - Unicesumar
-- 📌 Pós-graduando em Engenharia de Software - Puc MG
+- 📌 Graduando em Engenharia de Software - Unicesumar
 
 
 <div align="center">
