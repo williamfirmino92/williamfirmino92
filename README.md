@@ -27,6 +27,7 @@
    <img align="center" alt="Will-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="Will-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
    <img align="right" alt="Will-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202202/338224_3AAoibji.png">
+    <img align="right" alt="Will-Mysql" height="150" style="border-radius:50px;" src="https://www.flaticon.com/br/icone-gratis/mysql_919836?term=mysql&page=1&position=1&page=1&position=1&related_id=919836&origin=search">
 </div>
   
    ##
