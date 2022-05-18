@@ -26,7 +26,7 @@
    <img align="center" alt="Will-TRELLO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
    <img align="center" alt="Will-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="Will-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-   <img align="center" alt="Will-MYSQL" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/1199/1199128.png">
+   <img align="center" alt="Will-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="Will-NODEJS" height="30" width="40" src="https://as1.ftcdn.net/v2/jpg/03/52/67/82/1000_F_352678266_NFcwIwhhY76mkQItT4lCxyxcCTP3LgvY.jpg">
    <img align="right" alt="Will-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202202/338224_3AAoibji.png">
 
