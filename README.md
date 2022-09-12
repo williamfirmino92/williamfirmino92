@@ -7,7 +7,9 @@
 - 👓 Graduado em gestão da tecnologia - Unicesumar
 - 🔑 Analista de Perfil Comportamental - Cis Assessment
 - 📌 Graduando em Engenharia de Software - Unicesumar
-- 🔭 Estudando desenvolvimento web full stack - Resília
+- 🔭 Desenvolvimento web full stack - Resília
+- 🖥 Pós-graduando em Projetos de Cloud Computing
+
 
 
 
