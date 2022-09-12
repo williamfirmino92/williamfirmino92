@@ -8,7 +8,7 @@
 - 🔑 Analista de Perfil Comportamental - Cis Assessment
 - 📌 Graduando em Engenharia de Software - Unicesumar
 - 🔭 Desenvolvimento web full stack - Resília
-- 🖥 Pós-graduando em Projetos de Cloud Computing
+- 🖥 Pós-graduando em Projetos de Cloud Computing - Descomplica
 
 
 
