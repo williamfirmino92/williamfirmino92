@@ -3,12 +3,12 @@
 
 
 
-- 🖥 Técnico em Informática- CEB
-- 👓 Graduado em gestão da tecnologia - Unicesumar
-- 🔑 Analista de Perfil Comportamental - Cis Assessment
-- 📌 Graduando em Engenharia de Software - Unicesumar
-- 🔭 Desenvolvimento web full stack - Resília
-- 🖥 Pós-graduando em Projetos de Cloud Computing - Descomplica
+- 🖥 Técnico em Informática
+- 👓 Graduado em gestão da tecnologia 
+- 🔑 Analista de Perfil Comportamental 
+- 📌 Graduando em Engenharia de Software 
+- 🔭 Desenvolvimento web full stack 
+- 🖥 Pós-graduando em Projetos de Cloud Computing 
 
 
 
